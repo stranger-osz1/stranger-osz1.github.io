@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"battlerName":"OSZ_battler_NPC_7","characterIndex":6,"characterName":"OSZ_NPC_walking_1","classId":1,"equips":[0,0,0,2,0],"faceIndex":4,"faceName":"OSZ_NPC_faces_3","traits":[],"initialLevel":1,"maxLevel":20,"name":"Elodie","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"OSZ_battler_NPC_6","characterIndex":5,"characterName":"OSZ_NPC_walking_1","classId":1,"equips":[0,0,0,2,0],"faceIndex":3,"faceName":"OSZ_faces_2","traits":[],"initialLevel":1,"maxLevel":20,"name":"Noah","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"OSZ_battler_Windgassen","characterIndex":6,"characterName":"OSSZ_walking_1","classId":5,"equips":[31,0,65,5,0],"faceIndex":6,"faceName":"OSZ_faces_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Herr Windgassen","nickname":"Frankie","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_5","characterIndex":0,"characterName":"Actor3","classId":5,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Herr Kraus","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"OSZ_battler_Paulat","characterIndex":5,"characterName":"OSSZ_walking_2","classId":5,"equips":[7,0,0,2,100],"faceIndex":5,"faceName":"OSZ_faces_1","traits":[],"initialLevel":5,"maxLevel":30,"name":"Herr Paulat","nickname":"","note":"","profile":"Würfeln ist seine Leidenschaft"},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kasey","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eliot","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Intro","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
